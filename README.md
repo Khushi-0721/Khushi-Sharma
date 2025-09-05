@@ -13,11 +13,11 @@
   
 - 🌱 I’m currently learning **Data Analysis** and creating effective, interactive and attractive **Dashboards**.
 
-- 📑 I've skills like **Python**, **NumPy**, **Pandas**, **MatplotLib**, **Seaborn**, **MS Excel**, **MySQL**, **Power BI**, **Tableau**, **IBM SPSS**, **Statistics**, **MS Word** and **MS PowerPoint**
+- 📑 I've skills like **Python**, **NumPy**, **Pandas**, **MatplotLib**, **Seaborn**, **MS Excel**, **MySQL**, **Power BI**, **Tableau**, **MS Word** and **MS PowerPoint**
   
 - 💞️ I’m looking for any *employment opportunities* to exhibit my skills to the public.
   
-- 📫 How to reach me: **aakritiritika800@gmail.com**.
+- 📫 How to reach me: **Khushi.a.sgarma01@gmail.com**.
 
 - 🧾 My Projects : **https://github.com/Khushi-0721**
   
