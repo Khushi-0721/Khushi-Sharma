@@ -1,6 +1,6 @@
 
 
-### 👋 I'm a Data Analyst with the core knowledge in Business Economics and Statistics.
+### 👋 I'm a Data Analyst with the core knowledge in Python , SQL , Power BI , Tableau and Advanced Excel.
 
 
 <img align="right"  width="400" src="https://i.pinimg.com/736x/97/d4/4b/97d44b6c72d9ee592a504e1e12d223d6.jpg">
